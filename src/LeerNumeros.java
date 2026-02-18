@@ -7,7 +7,7 @@ public class LeerNumeros {
 
         String linea;
         while ((linea = br.readLine()) != null) {
-            System.out.println("Numero de lineas"+linea);
+            System.out.println(linea);
         }
 
     }
